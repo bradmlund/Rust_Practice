@@ -1,4 +1,6 @@
 # Rust_Practice
 Coding Exercises from "Rust Programming Language"
 
-1)  main.rs for Guess <-- classic number guessing script, and I added a counter for number of guesses made
+I'm including just the main.rs, cargo.toml, and cargo.lock files to share depencies used.
+
+1)  GuessingGame:  classic number guessing script, and I added a counter for number of guesses made
